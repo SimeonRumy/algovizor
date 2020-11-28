@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/algovizo/static/css/main.2949c0ae.chunk.css",
-    "main.js": "/algovizo/static/js/main.cb61bd6e.chunk.js",
-    "main.js.map": "/algovizo/static/js/main.cb61bd6e.chunk.js.map",
-    "runtime-main.js": "/algovizo/static/js/runtime-main.c5d4f9e8.js",
-    "runtime-main.js.map": "/algovizo/static/js/runtime-main.c5d4f9e8.js.map",
-    "static/css/2.ae27b44a.chunk.css": "/algovizo/static/css/2.ae27b44a.chunk.css",
-    "static/js/2.c01f2bcb.chunk.js": "/algovizo/static/js/2.c01f2bcb.chunk.js",
-    "static/js/2.c01f2bcb.chunk.js.map": "/algovizo/static/js/2.c01f2bcb.chunk.js.map",
-    "index.html": "/algovizo/index.html",
-    "precache-manifest.ccd6246415bec93e767600f356cfe487.js": "/algovizo/precache-manifest.ccd6246415bec93e767600f356cfe487.js",
-    "service-worker.js": "/algovizo/service-worker.js",
-    "static/css/2.ae27b44a.chunk.css.map": "/algovizo/static/css/2.ae27b44a.chunk.css.map",
-    "static/css/main.2949c0ae.chunk.css.map": "/algovizo/static/css/main.2949c0ae.chunk.css.map"
+    "main.css": "/algovizor/static/css/main.2949c0ae.chunk.css",
+    "main.js": "/algovizor/static/js/main.c755c93a.chunk.js",
+    "main.js.map": "/algovizor/static/js/main.c755c93a.chunk.js.map",
+    "runtime-main.js": "/algovizor/static/js/runtime-main.ff10324c.js",
+    "runtime-main.js.map": "/algovizor/static/js/runtime-main.ff10324c.js.map",
+    "static/css/2.ae27b44a.chunk.css": "/algovizor/static/css/2.ae27b44a.chunk.css",
+    "static/js/2.c01f2bcb.chunk.js": "/algovizor/static/js/2.c01f2bcb.chunk.js",
+    "static/js/2.c01f2bcb.chunk.js.map": "/algovizor/static/js/2.c01f2bcb.chunk.js.map",
+    "index.html": "/algovizor/index.html",
+    "precache-manifest.9f74e799c788fbd6a038c61d8c14bf2e.js": "/algovizor/precache-manifest.9f74e799c788fbd6a038c61d8c14bf2e.js",
+    "service-worker.js": "/algovizor/service-worker.js",
+    "static/css/2.ae27b44a.chunk.css.map": "/algovizor/static/css/2.ae27b44a.chunk.css.map",
+    "static/css/main.2949c0ae.chunk.css.map": "/algovizor/static/css/main.2949c0ae.chunk.css.map"
   }
 }
