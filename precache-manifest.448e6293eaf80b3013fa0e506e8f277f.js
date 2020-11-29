@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c078dfbfdc47e5df30803655ae3cbdb",
+    "revision": "9df16c1353c35d0be36e18c6f2071f29",
     "url": "/algovizor/index.html"
   },
   {
