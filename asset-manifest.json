@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/algovizor/static/css/main.a7ee2f2c.chunk.css",
+    "main.css": "/algovizor/static/css/main.51398265.chunk.css",
     "main.js": "/algovizor/static/js/main.67432029.chunk.js",
     "main.js.map": "/algovizor/static/js/main.67432029.chunk.js.map",
     "runtime-main.js": "/algovizor/static/js/runtime-main.ff10324c.js",
@@ -9,9 +9,9 @@
     "static/js/2.dfde0d1f.chunk.js": "/algovizor/static/js/2.dfde0d1f.chunk.js",
     "static/js/2.dfde0d1f.chunk.js.map": "/algovizor/static/js/2.dfde0d1f.chunk.js.map",
     "index.html": "/algovizor/index.html",
-    "precache-manifest.d46c082c231b5891ef284de26c6513f8.js": "/algovizor/precache-manifest.d46c082c231b5891ef284de26c6513f8.js",
+    "precache-manifest.3fd92dba88b04ec5524e39cbbe8ddd7e.js": "/algovizor/precache-manifest.3fd92dba88b04ec5524e39cbbe8ddd7e.js",
     "service-worker.js": "/algovizor/service-worker.js",
     "static/css/2.ae27b44a.chunk.css.map": "/algovizor/static/css/2.ae27b44a.chunk.css.map",
-    "static/css/main.a7ee2f2c.chunk.css.map": "/algovizor/static/css/main.a7ee2f2c.chunk.css.map"
+    "static/css/main.51398265.chunk.css.map": "/algovizor/static/css/main.51398265.chunk.css.map"
   }
 }
